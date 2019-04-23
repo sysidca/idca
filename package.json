@@ -1,0 +1,26 @@
+{
+  "name": "idca",
+  "version": "1.0.0",
+  "description": "Intergrated Data Center Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sysidca/idca.git"
+  },
+  "keywords": [
+    "idca"
+  ],
+  "author": "Zharif Akmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sysidca/idca/issues"
+  },
+  "homepage": "https://github.com/sysidca/idca#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.3"
+  }
+}
